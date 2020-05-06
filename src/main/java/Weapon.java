@@ -12,6 +12,10 @@ public class Weapon {
     public static void main(String[] args) {
         
     }
+    //name: weapon type ex. gun, sword
+    //type: type of attack
+    //attack: damage
+    //cost: cost to purchase
    String name, type;
    int attack, cost;
   
